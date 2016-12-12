@@ -1,5 +1,5 @@
 # music-finder
-Music finder app (aka Muscene - Music-Scene). Group project #1
+Music finder app (aka Muscene - Music-Scene). Group project #1 for UT Coding Bootcamp
 
 Collaborators: 
 
