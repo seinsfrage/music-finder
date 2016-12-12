@@ -2,9 +2,13 @@
 Music finder app (aka Muscene - Music-Scene). Group project #1
 
 Collaborators: 
+
 Carly Lucas-Melanson: https://github.com/carlylumel
+
 Timothy D. Lee: https://github.com/timothydlee
+
 Christina Davis: https://github.com/smaashthemac
+
 Kaitlyn Adams: https://github.com/kadams277
 
 App allows users to:
