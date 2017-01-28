@@ -19,3 +19,5 @@ Muscene allows users to:
 Initial app was hampered by: 1) needing to use free APIs (5 total were used; async AJAX calls were a challenge) and 2) timeframe allowed for conception to completion (1 week; a couple of responses for API keys arrived too late). We were quite happy with result, nevertheless.
 
 indexTDL.html accesses the demo version of the app. Other html files are alternate but non-operative "looks" of the app.
+
+Live version here: https://muscene.herokuapp.com/
