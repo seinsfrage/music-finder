@@ -20,4 +20,4 @@ Initial app was hampered by: 1) needing to use free APIs (5 total were used; asy
 
 indexTDL.html accesses the demo version of the app. Other html files are alternate but non-operative "looks" of the app.
 
-Live version here: https://muscene.herokuapp.com/
+Live version here: https://muscene.herokuapp.com/ (current functionality is limited)
